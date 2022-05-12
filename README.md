@@ -12,8 +12,7 @@ Installation
 
 
 or from source
-* git clone https://github.com/NicklasMCHD/PyAL.git
-* cd PyAl
+
 * python setup.py install
 
 Documentation
